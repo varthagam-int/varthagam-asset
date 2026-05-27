@@ -1,0 +1,22 @@
+{
+  "name": "Varthagam ERP",
+  "short_name": "Varthagam",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#FAF9F5",
+  "theme_color": "#3C7538",
+  "icons": [
+    {
+      "src": "https://varthagam-int.github.io/varthagam-asset/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://varthagam-int.github.io/varthagam-asset/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
